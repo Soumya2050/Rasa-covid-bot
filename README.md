@@ -4,7 +4,7 @@ This is a COVID-19 Chatbot built with Rasa Framework which provides basic inform
 Steps needed to run this project:
 Please go through the Documentation for more details 
 
-![Rasa-covid-bot](Docomentation.docx)
+![Docoment](Docomentation.docx)
 
 
 Screenshots of project -
