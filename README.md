@@ -6,7 +6,7 @@ Please go through the Documentation for more details
 
 
 Screenshots of project -
-![Rasa-covid-bot](images/Covid responce.PNG)
+![Rasa-covid-bot](images/Covid responce.png)
 
 Telegram Response -
 ![Rasa-covid-bot](images/Covid-responce-telegram.png)
