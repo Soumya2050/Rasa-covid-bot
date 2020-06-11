@@ -6,10 +6,10 @@ Please go through the Documentation for more details
 
 
 Screenshots of project -
-(images/Covid responce.PNG)
+![Rasa-covid-bot](images/Covid responce.PNG)
 
 Telegram Response -
-(images/Covid-responce-telegram.png)
+![Rasa-covid-bot](images/Covid-responce-telegram.png)
 
 
 
